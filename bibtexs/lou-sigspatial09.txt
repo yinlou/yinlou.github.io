@@ -1,0 +1,7 @@
+@inproceedings{lou2009mapmatching,
+    author = {Lou, Yin and Zhang, Chengyang and Zheng, Yu and Xie, Xing and Wang, Wei and Huang, Yan},
+    title = {Map-Matching for Low-Sampling-Rate GPS Trajectories},
+    booktitle = {Proceedings of the 17th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems},
+    year = {2009},
+    location = {Seattle, Washington}
+}

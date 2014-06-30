@@ -1,0 +1,7 @@
+@inproceedings{lou2012matchminer,
+    author = {Lou, Yin and Snavely, Noah and Gehrke, Johannes},
+    title = {MatchMiner: Efficient Spaning Structure Mining in Large Image Collections},
+    booktitle = {Proceedings of the 12th European Conference on Computer Vision},
+    year = {2012},
+    location = {Florence, Italy}
+}

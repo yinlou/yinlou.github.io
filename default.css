@@ -1,0 +1,161 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font: 13px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #333333;
+	background: #FFF;
+}
+
+html {
+	background: #FFF;
+}
+
+
+h2 {
+	font: 1.82em;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #555;
+}
+
+
+p, ol, ul {
+	line-height: 1.67em;
+}
+
+a {
+	color: #3478e3;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/* Page */
+
+#wrapper {
+	width: 920px;
+	margin: 0 auto;
+	background: #F0F0F0;
+	border-color: #fff;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+#page {
+	background: #fff;
+	width: 655px;
+	margin: 0px auto;
+	float: left;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 625px;
+}
+
+/* Post */
+
+.post {
+}
+
+.post .title {
+	margin: 0;
+	padding: 20px 0 0 0;
+	background: url(images/post_bg.gif) repeat-x;
+	font-size: 1.8em;
+}
+
+.post .title a {
+	color: #555;
+}
+
+.post .meta {
+	margin: 0 0 30px 0;
+	padding: 0;
+	color: #C6C6C6;
+	line-height:normal;
+}
+
+.post .meta a {
+	color: #C6C6C6;
+}
+
+.post .entry {
+	padding-bottom: 30px;
+}
+
+/* Bio */
+
+.bio {
+}
+
+.bio .title {
+	margin: 0;
+	padding: 20px 0 0 0;
+	font-size: 1.8em;
+}
+
+.bio .title a {
+	color: #555;
+}
+
+.bio .meta {
+	margin: 0 0 30px 0;
+	padding: 0;
+	color: #C6C6C6;
+	line-height:normal;
+}
+
+.bio .meta a {
+	color: #C6C6C6;
+}
+
+.bio .entry {
+	padding-bottom: 30px;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 240px;
+	padding: 6px 12px 18px 12px;
+	overflow: hidden;
+	background: #F0F0F0;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	padding-left: 21px;
+	margin-bottom: 5px;
+	background: url(images/bullet.gif) no-repeat 6px 50%;
+}
+
+#sidebar a:hover {
+	text-decoration: underline;
+}
+
+/* Footer */
+
+#footer {
+	width: 920px;
+	clear: both;
+	margin: 0;
+	padding: 50px 0;
+	text-align: center;
+	color: #555;
+	background: #FFF;
+}
+
+#legal a {
+	color: #555;
+}

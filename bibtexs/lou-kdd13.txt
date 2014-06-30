@@ -1,0 +1,7 @@
+@inproceedings{lou2013ga2m,
+    author = {Lou, Yin and Caruana, Rich and Gehrke, Johannes and Hooker, Giles},
+    title = {Accurate Intelligible Models with Pairwise Interactions},
+    booktitle = {Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+    year = {2013},
+    location = {Chicago, IL, USA}
+}
