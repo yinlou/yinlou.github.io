@@ -35,7 +35,7 @@ a:hover {
 /* Page */
 
 #wrapper {
-	width: 920px;
+	width: 960px;
 	margin: 0 auto;
 	background: #F0F0F0;
 	border-color: #fff;
@@ -45,7 +45,7 @@ a:hover {
 
 #page {
 	background: #fff;
-	width: 655px;
+	width: 695px;
 	margin: 0px auto;
 	float: left;
 }
@@ -54,7 +54,7 @@ a:hover {
 
 #content {
 	float: left;
-	width: 625px;
+	width: 665px;
 }
 
 /* Post */
@@ -147,7 +147,7 @@ a:hover {
 /* Footer */
 
 #footer {
-	width: 920px;
+	width: 960px;
 	clear: both;
 	margin: 0;
 	padding: 50px 0;
