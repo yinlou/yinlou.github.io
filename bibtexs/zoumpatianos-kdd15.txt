@@ -1,0 +1,7 @@
+@inproceedings{zoumpatianos2015edq,
+    author = {Zoumpatianos, Kostas and Lou, Yin and Palpanas, Themis and Gehrke, Johannes},
+    title = {Query Workloads for Data Series Indexes},
+    booktitle = {Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+    year = {2015},
+    location = {Sydney, Australia}
+}
