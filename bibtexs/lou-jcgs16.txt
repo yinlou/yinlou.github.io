@@ -1,0 +1,9 @@
+@article{lou2016splam,
+    author = {Lou, Yin and Bien, Jacob and Caruana, Rich and Gehrke, Johannes},
+    title = {Sparse Partially Linear Additive Models},
+    journal = {Journal of Computational and Graphical Statistics},
+    volume={25},
+    number={4},
+    pages={1126--1140},
+    year={2016}
+}
