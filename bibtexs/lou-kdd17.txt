@@ -1,0 +1,7 @@
+@inproceedings{lou2017bdt,
+    author = {Lou, Yin and Obukhov, Mikhail},
+    title = {BDT: Boosting Decision Tables for High Accuracy and Scoring Efficiency},
+    booktitle = {Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+    year = {2017},
+    location = {Halifax, Nova Scotia, Canada}
+}
