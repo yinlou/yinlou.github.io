@@ -1,0 +1,7 @@
+@inproceedings{zhang2019axiomatic,
+    author = {Zhang, Xuezhou and Tan, Sarah and Koch, Paul and Lou, Yin and Chajewska, Urszula and Caruana, Rich},
+    title = {Axiomatic Interpretability for Multiclass Additive Models},
+    booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+    year = {2019},
+    location = {Anchorage, Alaska, USA}
+}
