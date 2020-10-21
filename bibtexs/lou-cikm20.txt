@@ -1,0 +1,7 @@
+@inproceedings{lou2020efficiently,
+    author = {Lou, Yin and Wang, Yongliang and Liang, Shiwei and Dong, Yang},
+    title = {Efficiently Training Intelligible Models for Global Explanations},
+    booktitle = {Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
+    year = {2020},
+    location = {Virtual Event, Ireland}
+}
