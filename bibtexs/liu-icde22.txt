@@ -1,0 +1,7 @@
+@inproceedings{liu2022feature,
+    author = {Liu, Jiabin and Chai, Chengliang and Luo, Yuyu and Lou, Yin and Feng, Jianhua and Tang, Nan},
+    title = {Feature Augmentation with Reinforcement Learning},
+    booktitle = {Proceedings of the 38th IEEE International Conference on Data Engineering},
+    year = {2022},
+    location = {Virtual Event, Kuala Lumpur, Malaysia}
+}

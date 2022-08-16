@@ -1,0 +1,7 @@
+@inproceedings{chen2021using,
+    author = {Chen, Zhi and Tan, Sarah and Nori, Harsha and Inkpen, Kori and Lou, Yin and Caruana, Rich},
+    title = {Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data},
+    booktitle = {Proceedings of the 3rd International Workshop on eXplainable Knowledge Discovery in Data Mining},
+    year = {2021},
+    location = {Virtual Event, Bilbao, Spain}
+}
