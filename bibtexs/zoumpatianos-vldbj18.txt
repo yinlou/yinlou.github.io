@@ -2,8 +2,8 @@
     author = {Zoumpatianos, Kostas and Lou, Yin and Ileana, Ioana and Palpanas, Themis and Gehrke, Johannes},
     title = {Generating Data Series Workloads},
     journal = {The International Journal on Very Large Data Bases},
-    volume={27},
-    number={6},
-    pages={823--846},
-    year={2018}
+    volume = {27},
+    number = {6},
+    pages = {823--846},
+    year = {2018}
 }

@@ -1,0 +1,9 @@
+@article{qian2023fanglue,
+    author = {Qian, Chen and Liang, Shiwei and Wang, Zhaoyang and Lou, Yin},
+    title = {Fanglue: An Interactive System for Decision Rule Crafting},
+    journal = {Proceedings of the VLDB Endowment},
+    volume = {16},
+    number = {12},
+    pages = {4062--4065},
+    year = {2023}
+}

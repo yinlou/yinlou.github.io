@@ -1,0 +1,7 @@
+@inproceedings{tan2018distill,
+    author = {Tan, Sarah and Caruana, Rich and Hooker, Giles and Lou, Yin},
+    title = {Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation},
+    booktitle = {Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society},
+    year = {2018},
+    location = {New Orleans, LA, USA}
+}
