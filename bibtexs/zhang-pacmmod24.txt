@@ -1,0 +1,9 @@
+@article{zhang2024featurelte,
+    author = {Zhang, Tianping and Wang, Zhaoyang and Qian, Chen and Li, Jian and Lou, Yin},
+    title = {FeatureLTE: Learning to Estimate Feature Importance},
+    journal = {Proceedings of the ACM on Management of Data},
+    volume = {2},
+    number = {3},
+    pages = {1--19},
+    year = {2024}
+}
