@@ -1,0 +1,7 @@
+@inproceedings{wen2024pors,
+    author = {Wen, Chengyao and Lou, Yin},
+    title = {On Finding Bi-objective Pareto-optimal Fraud Prevention Rule Sets for Fintech Applications},
+    booktitle = {Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+    year = {2024},
+    location = {Barcelona, Spain}
+}
