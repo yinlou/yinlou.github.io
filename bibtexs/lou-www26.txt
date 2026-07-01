@@ -1,0 +1,7 @@
+@inproceedings{lou2026featurepi,
+    author = {Lou, Yin},
+    title = {Feature-PI: A Data Repository for Learning-based Feature Importance Estimation},
+    booktitle = {Proceedings of the ACM Web Conference 2026},
+    year = {2026},
+    location = {Dubai, United Arab Emirates}
+}
